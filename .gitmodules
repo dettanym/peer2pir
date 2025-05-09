@@ -1,0 +1,9 @@
+[submodule "private-zikade"]
+	path = private-zikade
+	url = git@github.com:dettanym/private-zikade.git
+[submodule "dhtpir-ipfs"]
+	path = dhtpir-ipfs
+	url = git@github.com:dettanym/dhtpir-ipfs.git
+[submodule "private-go-kademlia"]
+	path = private-go-kademlia
+	url = https://github.com/dettanym/private-go-kademlia.git
